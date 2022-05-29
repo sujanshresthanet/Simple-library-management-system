@@ -2,7 +2,7 @@
 // DB credentials.
 define('DB_HOST','localhost');
 define('DB_USER','root');
-define('DB_PASS','anchorPoints');
+define('DB_PASS','YOUR-PHPMYADMIN-PASSWORD');
 define('DB_NAME','lib');
 // Establish database connection.
 try
