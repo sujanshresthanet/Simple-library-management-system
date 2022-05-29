@@ -30,68 +30,68 @@ Download and install suitable XAMP server from this link - https://www.apachefri
 
 # Screenshots
 
-![Admin Dashboard](admin_dashboard.jpg)
+![Admin Dashboard](Screenshots/admin_dashboard.jpg)
 
 ***
 
-![Add Publication](add_publication.jpg)
+![Add Publication](Screenshots/add_publication.jpg)
 
 ***
 
-![Change Password](change_password.jpg)
+![Change Password](Screenshots/change_password.jpg)
 
 ***
 
-![Issue a new book](issue_a_new_book.jpg)
+![Issue a new book](Screenshots/issue_a_new_book.jpg)
 
 ***
 
-![Add new book](add_book.jpg)
+![Add new book](Screenshots/add_book.jpg)
 
 ***
 
-![Manage books](manage_books.jpg)
+![Manage books](Screenshots/manage_books.jpg)
 
 ***
 
-![Manage Category](manage_category.jpg)
+![Manage Category](Screenshots/manage_category.jpg)
 
 ***
 
-![Manage issued books](manage_issued_books.jpg)
+![Manage issued books](Screenshots/manage_issued_books.jpg)
 
 ***
 
-![Manage publication](manage_publication.jpg)
+![Manage publication](Screenshots/manage_publication.jpg)
 
 ***
 
-![Manage requested book](manage_requested_book.jpg)
+![Manage requested book](Screenshots/manage_requested_book.jpg)
 
 ***
 
-![Overdue report](overdue_report.jpg)
+![Overdue report](Screenshots/overdue_report.jpg)
 
 ***
 
-![Profile Page](profile.jpg)
+![Profile Page](Screenshots/profile.jpg)
 
 ***
 
-![Report filter Page](report_filter.jpg)
+![Report filter Page](Screenshots/report_filter.jpg)
 
 ***
 
-![Report Page](report.jpg)
+![Report Page](Screenshots/report.jpg)
 
 ***
 
-![Request a book Page](request_a_book.jpg)
+![Request a book Page](Screenshots/request_a_book.jpg)
 
 ***
 
-![Requested books Page](requested_books.jpg)
+![Requested books Page](Screenshots/requested_books.jpg)
 
 ***
 
-![Fine Page](set_fine.jpg)
+![Fine Page](Screenshots/set_fine.jpg)
